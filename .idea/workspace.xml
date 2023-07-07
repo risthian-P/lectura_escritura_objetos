@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cd9f22a-9e65-42d2-b9e0-740696075af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lectura_String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miclase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="3cd9f22a-9e65-42d2-b9e0-740696075af6" name="Changes" comment="lectura y escritura de objetos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5ff5992f-1fb2-425a-83a3-6782648aecd7" />
   </component>
   <component name="ProjectId" id="2SFdvOcnq1PLh0xgij51RHuno2t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,6 +59,18 @@
       <option name="presentableId" value="Default" />
       <updated>1688746496041</updated>
     </task>
+    <task id="LOCAL-00001" summary="lectura y escritura de objetos">
+      <created>1688749328750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688749328750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lectura y escritura de objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="lectura y escritura de objetos" />
   </component>
 </project>
